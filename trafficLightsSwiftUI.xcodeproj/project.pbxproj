@@ -11,6 +11,7 @@
 		302CA5A528CA06D50051AE10 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 302CA5A428CA06D50051AE10 /* ContentView.swift */; };
 		302CA5A728CA06D80051AE10 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 302CA5A628CA06D80051AE10 /* Assets.xcassets */; };
 		302CA5AA28CA06D80051AE10 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 302CA5A928CA06D80051AE10 /* Preview Assets.xcassets */; };
+		302CA5B528CAFDCB0051AE10 /* CircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 302CA5B428CAFDCB0051AE10 /* CircleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		302CA5A428CA06D50051AE10 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		302CA5A628CA06D80051AE10 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		302CA5A928CA06D80051AE10 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		302CA5B428CAFDCB0051AE10 /* CircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				302CA5A228CA06D50051AE10 /* trafficLightsSwiftUIApp.swift */,
 				302CA5A428CA06D50051AE10 /* ContentView.swift */,
+				302CA5B428CAFDCB0051AE10 /* CircleView.swift */,
 				302CA5A628CA06D80051AE10 /* Assets.xcassets */,
 				302CA5A828CA06D80051AE10 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				302CA5A528CA06D50051AE10 /* ContentView.swift in Sources */,
+				302CA5B528CAFDCB0051AE10 /* CircleView.swift in Sources */,
 				302CA5A328CA06D50051AE10 /* trafficLightsSwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
