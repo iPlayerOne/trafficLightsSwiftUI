@@ -30,13 +30,13 @@ struct ContentView: View {
                 Button(action: { switchLight() }) {
                     Text(title)
                         .font(.title)
+                        .foregroundColor(.white)
                 }
                 .frame(width: 200, height: 50)
-                .background(Color.blue)
-                .foregroundColor(.white)
+                .background(.blue)
                 .overlay(
                     RoundedRectangle(cornerRadius: 10)
-                        .stroke(Color.white, lineWidth: 4))
+                        .stroke(.white, lineWidth: 4))
                 
             }
             .padding()
