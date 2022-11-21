@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		302CA5A328CA06D50051AE10 /* trafficLightsSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 302CA5A228CA06D50051AE10 /* trafficLightsSwiftUIApp.swift */; };
+		302CA5A328CA06D50051AE10 /* TrafficLightsSwiftUIApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 302CA5A228CA06D50051AE10 /* TrafficLightsSwiftUIApp.swift */; };
 		302CA5A528CA06D50051AE10 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 302CA5A428CA06D50051AE10 /* ContentView.swift */; };
 		302CA5A728CA06D80051AE10 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 302CA5A628CA06D80051AE10 /* Assets.xcassets */; };
 		302CA5AA28CA06D80051AE10 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 302CA5A928CA06D80051AE10 /* Preview Assets.xcassets */; };
@@ -15,8 +15,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		302CA59F28CA06D50051AE10 /* trafficLightsSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = trafficLightsSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		302CA5A228CA06D50051AE10 /* trafficLightsSwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = trafficLightsSwiftUIApp.swift; sourceTree = "<group>"; };
+		302CA59F28CA06D50051AE10 /* TrafficLightsSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TrafficLightsSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		302CA5A228CA06D50051AE10 /* TrafficLightsSwiftUIApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TrafficLightsSwiftUIApp.swift; sourceTree = "<group>"; };
 		302CA5A428CA06D50051AE10 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		302CA5A628CA06D80051AE10 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		302CA5A928CA06D80051AE10 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -37,7 +37,7 @@
 		302CA59628CA06D50051AE10 = {
 			isa = PBXGroup;
 			children = (
-				302CA5A128CA06D50051AE10 /* trafficLightsSwiftUI */,
+				302CA5A128CA06D50051AE10 /* TrafficLightsSwiftUI */,
 				302CA5A028CA06D50051AE10 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -45,21 +45,21 @@
 		302CA5A028CA06D50051AE10 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				302CA59F28CA06D50051AE10 /* trafficLightsSwiftUI.app */,
+				302CA59F28CA06D50051AE10 /* TrafficLightsSwiftUI.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		302CA5A128CA06D50051AE10 /* trafficLightsSwiftUI */ = {
+		302CA5A128CA06D50051AE10 /* TrafficLightsSwiftUI */ = {
 			isa = PBXGroup;
 			children = (
-				302CA5A228CA06D50051AE10 /* trafficLightsSwiftUIApp.swift */,
+				302CA5A228CA06D50051AE10 /* TrafficLightsSwiftUIApp.swift */,
 				302CA5A428CA06D50051AE10 /* ContentView.swift */,
 				302CA5B428CAFDCB0051AE10 /* CircleView.swift */,
 				302CA5A628CA06D80051AE10 /* Assets.xcassets */,
 				302CA5A828CA06D80051AE10 /* Preview Content */,
 			);
-			path = trafficLightsSwiftUI;
+			path = TrafficLightsSwiftUI;
 			sourceTree = "<group>";
 		};
 		302CA5A828CA06D80051AE10 /* Preview Content */ = {
@@ -73,9 +73,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		302CA59E28CA06D50051AE10 /* trafficLightsSwiftUI */ = {
+		302CA59E28CA06D50051AE10 /* TrafficLightsSwiftUI */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 302CA5AD28CA06D80051AE10 /* Build configuration list for PBXNativeTarget "trafficLightsSwiftUI" */;
+			buildConfigurationList = 302CA5AD28CA06D80051AE10 /* Build configuration list for PBXNativeTarget "TrafficLightsSwiftUI" */;
 			buildPhases = (
 				302CA59B28CA06D50051AE10 /* Sources */,
 				302CA59C28CA06D50051AE10 /* Frameworks */,
@@ -85,9 +85,9 @@
 			);
 			dependencies = (
 			);
-			name = trafficLightsSwiftUI;
+			name = TrafficLightsSwiftUI;
 			productName = trafficLightsSwiftUI;
-			productReference = 302CA59F28CA06D50051AE10 /* trafficLightsSwiftUI.app */;
+			productReference = 302CA59F28CA06D50051AE10 /* TrafficLightsSwiftUI.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -105,7 +105,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 302CA59A28CA06D50051AE10 /* Build configuration list for PBXProject "trafficLightsSwiftUI" */;
+			buildConfigurationList = 302CA59A28CA06D50051AE10 /* Build configuration list for PBXProject "TrafficLightsSwiftUI" */;
 			compatibilityVersion = "Xcode 13.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -118,7 +118,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				302CA59E28CA06D50051AE10 /* trafficLightsSwiftUI */,
+				302CA59E28CA06D50051AE10 /* TrafficLightsSwiftUI */,
 			);
 		};
 /* End PBXProject section */
@@ -142,7 +142,7 @@
 			files = (
 				302CA5A528CA06D50051AE10 /* ContentView.swift in Sources */,
 				302CA5B528CAFDCB0051AE10 /* CircleView.swift in Sources */,
-				302CA5A328CA06D50051AE10 /* trafficLightsSwiftUIApp.swift in Sources */,
+				302CA5A328CA06D50051AE10 /* TrafficLightsSwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -274,11 +274,11 @@
 				DEVELOPMENT_TEAM = M2L3X2RFT6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = TrafficLightsSwiftUI;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -303,11 +303,11 @@
 				DEVELOPMENT_TEAM = M2L3X2RFT6;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_CFBundleDisplayName = TrafficLightsSwiftUI;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -324,7 +324,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		302CA59A28CA06D50051AE10 /* Build configuration list for PBXProject "trafficLightsSwiftUI" */ = {
+		302CA59A28CA06D50051AE10 /* Build configuration list for PBXProject "TrafficLightsSwiftUI" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				302CA5AB28CA06D80051AE10 /* Debug */,
@@ -333,7 +333,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		302CA5AD28CA06D80051AE10 /* Build configuration list for PBXNativeTarget "trafficLightsSwiftUI" */ = {
+		302CA5AD28CA06D80051AE10 /* Build configuration list for PBXNativeTarget "TrafficLightsSwiftUI" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				302CA5AE28CA06D80051AE10 /* Debug */,
